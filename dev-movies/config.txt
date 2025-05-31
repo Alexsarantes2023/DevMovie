@@ -1,0 +1,13 @@
+iniciando o projeto com yarn globalmente
+npm isnstall --global yarn
+
+yarn --version
+
+iniciando o projeto com vite criando a esturtura
+yarn create vite
+
+instalar as bibliotecas do nosso projeto node-modules
+yarn
+
+rodar o projeto
+yarn dev
