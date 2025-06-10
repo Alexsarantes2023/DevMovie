@@ -11,3 +11,32 @@ yarn
 
 rodar o projeto
 yarn dev
+
+instalando eslint
+yarn add eslint -D
+
+iniciando o eslint respondendo a perguntas que ajudam a configurar 
+yarn eslint --init
+
+yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
+
+yarn add eslint-plugin-react-hooks -D
+
+yarn add eslint-plugin-import-helpers -D
+
+// instalando biblioteca de roteamento
+yarn add react-router-dom
+
+se registrar no movdb e pegar a chave key da api
+
+// instalando axios para fazer requisições http
+yarn add axios
+
+// instalando styled components
+yarn add styled-components
+
+
+instalando o swiper.js para criar os carroseis
+yarn add swiper
+
+
